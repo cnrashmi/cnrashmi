@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>Hey, Welcome Developer.<br>I'm Rashmi Prasad A MERN Stack Developer in India.<br><br>Status: Working from home (Job), In Devlogs IIT.
+💫 About Me:<br>Hey, Welcome Developer.<br>I'm Rashmi Prasad A MERN Stack Developer in India.<br><br>Status: Working from home (Job).
 
 
 ## 🌐 Socials:
